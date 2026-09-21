@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Meta Refresh Redirect -->
-    <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbypY0uaU1kHLnsRsFvqKn6RkgMw9uOLGw2WHS9W2_qjnqRMIxsZdYGpbU0ozeV6XyCl/exec">
+    <meta http-equiv="refresh" content="0; url=https://script.google.com/macros/s/AKfycbyWTE8OPmsgZlfl1_bo5WbkS6zOAp7xtnpRzXFw93lzHr3skKICZMo3GHNfj9ysuu8i/exec">
     <title>Redirecting...</title>
     <!-- JavaScript Fallback Redirect -->
     <script>
-        window.location.href = "https://script.google.com/macros/s/AKfycbypY0uaU1kHLnsRsFvqKn6RkgMw9uOLGw2WHS9W2_qjnqRMIxsZdYGpbU0ozeV6XyCl/exec";
+        window.location.href = "https://script.google.com/macros/s/AKfycbyWTE8OPmsgZlfl1_bo5WbkS6zOAp7xtnpRzXFw93lzHr3skKICZMo3GHNfj9ysuu8i/exec";
     </script>
 </head>
 <body>
